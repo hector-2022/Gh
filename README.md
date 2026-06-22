@@ -1,4 +1,7 @@
-#EXTM3U
+<br /> <b>Warning</b>: file_get_contents(https://mundodeportes.online/pandatv/playpre/canales.json): Failed to open stream: HTTP request failed! in <b>/home/https://raw.githubusercontent.com/hector-2022/Gh/refs/heads/main/README.md
+</b> on line <b>3</b><br /> <br /> <b>Warning</b>: foreach() argument must be of type array|object, null given in <b>/home/https://raw.githubusercontent.com/hector-2022/Gh/refs/heads/main/README.md
+</b> on line <b>8</b><br /> 
+#EXTM3U 
 
 #EXTINF:-1 tvg-id="DIRECTV 1" tvg-logo="https://i.ibb.co/jkTvMpKH/DTV-sports-logo-white.png" group-title="🏆MUNDIAL 2026🏆", DIRECTV 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
