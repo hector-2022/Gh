@@ -1,5 +1,5 @@
-<br /> <b>Warning</b>: file_get_contents(https://mundodeportes.online/pandatv/playpre/canales.json): Failed to open stream: HTTP request failed! in <b>/home/https://raw.githubusercontent.com/hector-2022/Gh/refs/heads/main/README.md
-</b> on line <b>3</b><br /> <br /> <b>Warning</b>: foreach() argument must be of type array|object, null given in <b>/home/https://raw.githubusercontent.com/hector-2022/Gh/refs/heads/main/README.md
+<br /> <b>Warning</b>: file_get_contents(https://mundodeportes.online/pandatv/playpre/canales.json): Failed to open stream: HTTP request failed! in <b>/home/raw.githubusercontent.com/hector-2022/Gh/refs/heads/main/README.md
+</b> on line <b>3</b><br /> <br /> <b>Warning</b>: foreach() argument must be of type array|object, null given in <b>/home/raw.githubusercontent.com/hector-2022/Gh/refs/heads/main/README.md
 </b> on line <b>8</b><br /> 
 #EXTM3U 
 
